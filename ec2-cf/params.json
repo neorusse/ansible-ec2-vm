@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "myVPCID",
+    "ParameterValue": "vpc-0a784f18aa86ab74f"
+  },
+  {
+    "ParameterKey": "PublicSubnet",
+    "ParameterValue": "subnet-0d4b82444caf4ed12"
+  },
+  {
+    "ParameterKey": "AMItoUse",
+    "ParameterValue": "ami-06878d265978313ca"
+  }
+]
